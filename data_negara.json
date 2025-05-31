@@ -1,0 +1,26 @@
+{
+    "Indonesia": {
+        "ibukota": "Jakarta",
+        "benua": "Asia",
+        "populasi": "273 juta",
+        "mata_uang": "Rupiah"
+    },
+    "Jepang": {
+        "ibukota": "Tokyo",
+        "benua": "Asia",
+        "populasi": "125 juta",
+        "mata_uang": "Yen"
+    },
+    "Perancis": {
+        "ibukota": "Paris",
+        "benua": "Eropa",
+        "populasi": "67 juta",
+        "mata_uang": "Euro"
+    },
+    "Amerika Serikat": {
+        "ibukota": "Washington, D.C.",
+        "benua": "Amerika Utara",
+        "populasi": "331 juta",
+        "mata_uang": "Dolar AS"
+    }
+}
